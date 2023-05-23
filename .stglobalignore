@@ -113,3 +113,17 @@
 // │ Vim │
 // └─────┘
 *.*.sw[a-p]
+
+
+// ╔═══════════════╗
+// ║ Miscellaneous ║
+// ╚═══════════════╝
+.AppleDesktop
+.AppleDouble
+.Recycle.Bin
+.duplicacy
+.VolumeIcon.icns
+.apdisk
+Icon.
+.com.google.Chrome.*
+*.download
