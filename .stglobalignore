@@ -58,6 +58,18 @@
 // └─────────────────┘
 *Previews.lrdata root-pixels.db
 
+// ┌─────────────────────────────┐
+// │ MacOS Movies/Music/Pictures │
+// └─────────────────────────────┘
+# Movies:
+/Infuse
+/TV
+# Music:
+/iTunes
+/Music
+# Pictures:
+/Photos Library.photoslibrary
+
 // ┌─────────┐
 // │ Dropbox │
 // └─────────┘
